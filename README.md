@@ -1,9 +1,3 @@
-# PowerBi-Blinkit-sales-dashboard
-
-Here is a **colorful and attractive README.md format** (commonly used in GitHub projects). It uses **emojis, sections, and highlights** to make your project look professional and visually appealing.
-
----
-
 # 🛒 BlinkIT Grocery Sales Analysis Dashboard
 
 📊 **Power BI Data Analytics Project**
